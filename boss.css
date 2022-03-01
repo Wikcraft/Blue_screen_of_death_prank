@@ -1,0 +1,10 @@
+body{
+	background-color: blue;
+
+}
+p {
+	color: white;
+	font-size: 30px;
+	margin: 20px;
+	font-family: DejaVu Sans Mono, monospace;
+}
